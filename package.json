@@ -1,0 +1,27 @@
+{
+  "name": "object-loop-examples",
+  "version": "1.0.0",
+  "description": "Basic example of looping through objects using ES5 and beyond",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/object-loops.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/object-loops/issues"
+  },
+  "homepage": "https://github.com/scbowler/object-loops#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
