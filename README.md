@@ -13,3 +13,7 @@
 >    - `npm start`
 > 1. In browser navigate to: **localhost:9000**
 > 1. Open console to view results of code
+
+### Use
+
+> View code located in **`public/main.js`** to see examples of different ways to loop through an `Object` in JavaScript
